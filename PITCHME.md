@@ -11,10 +11,10 @@ Sample
 ### 3
 
 - Java
-- JavaScript
-- Kotlin
-- Go
-- Scala
+- JavaScript |
+- Kotlin |
+- Go |
+- Scala |
 
 ---
 
