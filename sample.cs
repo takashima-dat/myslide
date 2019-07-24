@@ -1,5 +1,6 @@
 class CSClass {
-   int a;
-   void Start() {
-       a=0;
+  int a;
+  void Start() {
+    a=0;
+  }
 }
